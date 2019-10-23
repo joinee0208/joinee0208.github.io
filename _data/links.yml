@@ -1,0 +1,99 @@
+- name: windows官方系统
+  url: https://msdn.itellyou.cn/
+  src: www
+
+- name: 比较实惠的CSDN和PUDN的下载网站
+  url: http://www.itziy.com/
+  src: www
+
+- name: 菜鸟教程-比较全的语言工具的语法手册
+  url: https://www.runoob.com/sitemap
+  src: www
+
+- name: logo设计的网站
+  url: https://www.graphicsprings.com/
+  src: www
+
+- name: 东软信息学院的开源镜像站
+  url: http://mirrors.neusoft.edu.cn/
+  src: www
+
+- name: All-In-One Online PDF Solution
+  url: https://www.hipdf.com/
+  src: www
+
+- name: Every tool you need to work with PDFs in one place
+  url: https://www.ilovepdf.com/
+  src: www
+
+
+- name: Online GIF maker and image editor
+  url: https://ezgif.com/
+  src: www
+
+- name: 找字体，在线调色
+  url: http://www.qiuziti.com/
+  src: www
+
+
+- name: 一个可以让毫无绘画基础的人画出炫酷的图案
+  url: http://weavesilk.com/
+  src: www
+
+
+- name: A Simple Online Logo Generator
+  url: https://logoly.pro/#/
+  src: www
+
+
+- name: voicetext-文字转语音网站
+  url: http://dws2.voicetext.jp/tomcat/demonstration/top.html
+  src: www
+
+- name: 学术搜索
+  url: https://scholar.chongbuluo.com/
+  src: www
+
+
+- name: 选择一个开源软件协议
+  url: http://choosealicense.online/
+  src: www
+
+- name: 知识共享许可协议
+  url: https://creativecommons.org/choose/?lang=zh&jurisdiction=cn
+  src: www
+
+
+- name: ascii generated
+  url: http://www.network-science.de/ascii/
+  src: www
+
+
+
+
+- name: LaTeX from PDFs or handwritten 
+  url: https://mathpix.com/
+  src: software
+
+- name: A JavaScript display engine for mathematics that works in all browsers
+  url: https://www.mathjax.org/
+  src: software
+
+
+- name: mlcvt-MSB<->LSB转换的小工具
+  url: https://liuweiqiang.win/tools/mlcvt.exe
+  src: tool
+
+- name: EmbeddedASRAutoTest用于嵌入式ASR系统自动测试语音识别准确率的小工具
+  url: https://liuweiqiang.win/tools/E-ASRAutoTest.exe
+  src: tool
+
+
+- name: Bin2Array用于文件二进制读取并转换成数组
+  url: https://liuweiqiang.win/tools/Bin2Array.exe
+  src: tool
+
+
+- name: AudioTool用于接收下位机的音频信号的工具
+  url: https://liuweiqiang.win/tools/AudioTool.exe
+  src: tool
