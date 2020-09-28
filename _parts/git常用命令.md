@@ -30,3 +30,16 @@ typora-root-url: ..\
 | 远程空分支（等同于删除）  | git push origin :[branchName]         |
 | 查看所有分支历史          | gitk --all                            |
 | 按日期排序显示历史        | gitk --date-order                     |
+
+
+
+## 删除近期提交的commit
+
+碰到想回滚提交，可以使用下面两个命令，先找到先要回滚的commit_id，然后执行：
+
+```
+git reset --hard commit_id 
+
+git push origin HEAD --force
+```
+

@@ -1,0 +1,115 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="47.392ex" height="18.176ex" style="font-size:14px;vertical-align: -8.505ex;" viewBox="0 -4164 20404.8 7825.7" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" aria-labelledby="MathJax-SVG-1-Title">
+<title id="MathJax-SVG-1-Title">
+\begin{array}{c|c}
+    \hline
+    \\
+    \quad 交换律\quad&amp;\quad \boldsymbol{a}\cdot\boldsymbol{b}=\boldsymbol{b}\cdot\boldsymbol{a}\quad\\
+    \quad 数乘结合律\quad&amp;\quad (k\boldsymbol{a})\cdot\boldsymbol{b}=k(\boldsymbol{b}\cdot\boldsymbol{a})\quad\\
+    \quad 分配律\quad&amp;\quad (\boldsymbol{a}+\boldsymbol{b})\cdot\boldsymbol{c}=\boldsymbol{a}\cdot\boldsymbol{c}+\boldsymbol{b}\cdot\boldsymbol{c}\quad\\
+    \\
+    \hline
+\end{array}
+</title>
+<defs aria-hidden="true">
+<path stroke-width="1" id="E1-MJMATHBI-61" d="M222 -8Q140 -8 89 34T38 158Q38 191 48 227Q72 329 151 390T327 452Q361 452 385 443T421 425T433 416H434L441 421Q448 426 460 430T486 435Q509 435 523 422T538 386Q538 380 522 315T488 179T467 93Q466 87 466 72Q466 42 483 42Q505 42 521 75Q531 94 541 134Q546 155 550 158T571 162H576H587Q607 162 607 148Q606 142 604 132T590 94T566 47T528 9T474 -8Q396 -8 358 40Q295 -8 222 -8ZM404 351Q383 401 324 401Q300 401 270 385T221 330Q206 296 186 220Q166 136 166 106Q166 72 184 58T228 43Q256 43 284 57T328 84T343 103Q343 106 374 228L404 351Z"></path>
+<path stroke-width="1" id="E1-MJMAIN-22C5" d="M78 250Q78 274 95 292T138 310Q162 310 180 294T199 251Q199 226 182 208T139 190T96 207T78 250Z"></path>
+<path stroke-width="1" id="E1-MJMATHBI-62" d="M220 -8Q142 -8 94 35T45 155V167Q45 187 52 218T104 426L153 622H149Q148 622 144 622T134 623T122 624T111 624T101 624T96 625Q84 628 84 642Q84 647 88 661T94 679Q98 684 109 685T185 690Q258 694 272 694Q289 694 293 679Q293 676 263 553L232 429L244 434Q256 440 281 446T331 452Q417 452 465 407T513 285Q513 235 494 184T439 90T346 20T220 -8ZM385 337Q385 400 318 400Q269 400 226 360Q214 349 211 341T191 268Q162 149 162 113Q162 44 226 44Q269 44 299 76T339 135T362 215Q364 222 365 226Q385 303 385 337Z"></path>
+<path stroke-width="1" id="E1-MJMAIN-3D" d="M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z"></path>
+<path stroke-width="1" id="E1-MJMAIN-28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path>
+<path stroke-width="1" id="E1-MJMATHI-6B" d="M121 647Q121 657 125 670T137 683Q138 683 209 688T282 694Q294 694 294 686Q294 679 244 477Q194 279 194 272Q213 282 223 291Q247 309 292 354T362 415Q402 442 438 442Q468 442 485 423T503 369Q503 344 496 327T477 302T456 291T438 288Q418 288 406 299T394 328Q394 353 410 369T442 390L458 393Q446 405 434 405H430Q398 402 367 380T294 316T228 255Q230 254 243 252T267 246T293 238T320 224T342 206T359 180T365 147Q365 130 360 106T354 66Q354 26 381 26Q429 26 459 145Q461 153 479 153H483Q499 153 499 144Q499 139 496 130Q455 -11 378 -11Q333 -11 305 15T277 90Q277 108 280 121T283 145Q283 167 269 183T234 206T200 217T182 220H180Q168 178 159 139T145 81T136 44T129 20T122 7T111 -2Q98 -11 83 -11Q66 -11 57 -1T48 16Q48 26 85 176T158 471L195 616Q196 629 188 632T149 637H144Q134 637 131 637T124 640T121 647Z"></path>
+<path stroke-width="1" id="E1-MJMAIN-29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path>
+<path stroke-width="1" id="E1-MJMAIN-2B" d="M56 237T56 250T70 270H369V420L370 570Q380 583 389 583Q402 583 409 568V270H707Q722 262 722 250T707 230H409V-68Q401 -82 391 -82H389H387Q375 -82 369 -68V230H70Q56 237 56 250Z"></path>
+<path stroke-width="1" id="E1-MJMATHBI-63" d="M362 325Q362 344 371 361T390 386L399 394Q390 401 355 401Q276 401 231 338Q207 301 189 230T170 122Q170 43 264 43Q392 43 457 105Q472 120 480 117Q486 114 497 102T509 83Q509 79 502 70T477 47T432 21T360 1T259 -8Q194 -8 148 9T80 54T49 109T40 167Q40 280 129 365T352 451Q390 451 396 450Q448 442 473 416T499 358T477 302T421 274H417Q393 274 378 288T362 325Z"></path>
+</defs>
+<g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)" aria-hidden="true">
+<g transform="translate(75,0)">
+<g transform="translate(389,0)">
+<g transform="translate(777,1588)">
+<g transform="translate(1000,0)">
+<text font-family="monospace" stroke="none" transform="scale(59.79916666666667) matrix(1 0 0 -1 0 0)">交</text>
+</g>
+<g transform="translate(1777,0)">
+<text font-family="monospace" stroke="none" transform="scale(59.79916666666667) matrix(1 0 0 -1 0 0)">换</text>
+</g>
+<g transform="translate(2554,0)">
+<text font-family="monospace" stroke="none" transform="scale(59.79916666666667) matrix(1 0 0 -1 0 0)">律</text>
+</g>
+</g>
+<g transform="translate(0,29)">
+<g transform="translate(1000,0)">
+<text font-family="monospace" stroke="none" transform="scale(59.79916666666667) matrix(1 0 0 -1 0 0)">数</text>
+</g>
+<g transform="translate(1777,0)">
+<text font-family="monospace" stroke="none" transform="scale(59.79916666666667) matrix(1 0 0 -1 0 0)">乘</text>
+</g>
+<g transform="translate(2554,0)">
+<text font-family="monospace" stroke="none" transform="scale(59.79916666666667) matrix(1 0 0 -1 0 0)">结</text>
+</g>
+<g transform="translate(3332,0)">
+<text font-family="monospace" stroke="none" transform="scale(59.79916666666667) matrix(1 0 0 -1 0 0)">合</text>
+</g>
+<g transform="translate(4109,0)">
+<text font-family="monospace" stroke="none" transform="scale(59.79916666666667) matrix(1 0 0 -1 0 0)">律</text>
+</g>
+</g>
+<g transform="translate(777,-1530)">
+<g transform="translate(1000,0)">
+<text font-family="monospace" stroke="none" transform="scale(59.79916666666667) matrix(1 0 0 -1 0 0)">分</text>
+</g>
+<g transform="translate(1777,0)">
+<text font-family="monospace" stroke="none" transform="scale(59.79916666666667) matrix(1 0 0 -1 0 0)">配</text>
+</g>
+<g transform="translate(2554,0)">
+<text font-family="monospace" stroke="none" transform="scale(59.79916666666667) matrix(1 0 0 -1 0 0)">律</text>
+</g>
+</g>
+</g>
+<line stroke-linecap="square" stroke-width="20.9" y1="10" x2="10" x1="10" y2="7496" transform="translate(6776,-3504)"></line>
+<g transform="translate(7276,0)">
+<g transform="translate(2744,1588)">
+ <use xlink:href="#E1-MJMATHBI-61" x="1000" y="0"></use>
+ <use xlink:href="#E1-MJMAIN-22C5" x="1855" y="0"></use>
+ <use xlink:href="#E1-MJMATHBI-62" x="2356" y="0"></use>
+ <use xlink:href="#E1-MJMAIN-3D" x="3155" y="0"></use>
+ <use xlink:href="#E1-MJMATHBI-62" x="4212" y="0"></use>
+ <use xlink:href="#E1-MJMAIN-22C5" x="4955" y="0"></use>
+ <use xlink:href="#E1-MJMATHBI-61" x="5456" y="0"></use>
+</g>
+<g transform="translate(1443,29)">
+ <use xlink:href="#E1-MJMAIN-28" x="1000" y="0"></use>
+ <use xlink:href="#E1-MJMATHI-6B" x="1389" y="0"></use>
+ <use xlink:href="#E1-MJMATHBI-61" x="1911" y="0"></use>
+ <use xlink:href="#E1-MJMAIN-29" x="2544" y="0"></use>
+ <use xlink:href="#E1-MJMAIN-22C5" x="3156" y="0"></use>
+ <use xlink:href="#E1-MJMATHBI-62" x="3656" y="0"></use>
+ <use xlink:href="#E1-MJMAIN-3D" x="4456" y="0"></use>
+ <use xlink:href="#E1-MJMATHI-6B" x="5512" y="0"></use>
+ <use xlink:href="#E1-MJMAIN-28" x="6033" y="0"></use>
+ <use xlink:href="#E1-MJMATHBI-62" x="6423" y="0"></use>
+ <use xlink:href="#E1-MJMAIN-22C5" x="7167" y="0"></use>
+ <use xlink:href="#E1-MJMATHBI-61" x="7667" y="0"></use>
+ <use xlink:href="#E1-MJMAIN-29" x="8301" y="0"></use>
+</g>
+<g transform="translate(0,-1530)">
+ <use xlink:href="#E1-MJMAIN-28" x="1000" y="0"></use>
+ <use xlink:href="#E1-MJMATHBI-61" x="1389" y="0"></use>
+ <use xlink:href="#E1-MJMAIN-2B" x="2245" y="0"></use>
+ <use xlink:href="#E1-MJMATHBI-62" x="3245" y="0"></use>
+ <use xlink:href="#E1-MJMAIN-29" x="3767" y="0"></use>
+ <use xlink:href="#E1-MJMAIN-22C5" x="4379" y="0"></use>
+ <use xlink:href="#E1-MJMATHBI-63" x="4879" y="0"></use>
+ <use xlink:href="#E1-MJMAIN-3D" x="5671" y="0"></use>
+ <use xlink:href="#E1-MJMATHBI-61" x="6727" y="0"></use>
+ <use xlink:href="#E1-MJMAIN-22C5" x="7583" y="0"></use>
+ <use xlink:href="#E1-MJMATHBI-63" x="8083" y="0"></use>
+ <use xlink:href="#E1-MJMAIN-2B" x="8819" y="0"></use>
+ <use xlink:href="#E1-MJMATHBI-62" x="9820" y="0"></use>
+ <use xlink:href="#E1-MJMAIN-22C5" x="10564" y="0"></use>
+ <use xlink:href="#E1-MJMATHBI-63" x="11064" y="0"></use>
+</g>
+</g>
+</g>
+<line stroke-linecap="square" stroke-width="75" y2="37" y1="37" x1="37" x2="20367" transform="translate(0,4003)"></line>
+<line stroke-linecap="square" stroke-width="75" y2="37" y1="37" x1="37" x2="20367" transform="translate(0,-3579)"></line>
+</g>
+</svg>

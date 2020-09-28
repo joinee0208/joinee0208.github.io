@@ -68,7 +68,13 @@
   url: http://www.network-science.de/ascii/
   src: www
 
+- name: An elegant, extendable code highlighter written in pure Ruby.
+  url: http://rouge.jneen.net/
+  src: www
 
+- name: KaTeX and MathJax Comparison Demo
+  url: https://www.intmath.com/cg5/katex-mathjax-comparison.php
+  src: www
 
 
 - name: LaTeX from PDFs or handwritten 
@@ -96,4 +102,8 @@
 
 - name: AudioTool用于接收下位机的音频信号的工具
   url: https://liuweiqiang.win/tools/AudioTool.exe
+  src: tool
+
+- name: 文件CRC16校验码计算工具
+  url: https://liuweiqiang.win/tools/CRC16.exe
   src: tool

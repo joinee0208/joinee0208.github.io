@@ -69,7 +69,19 @@
     <script src="{{ site.url }}/assets/vendor/jquery/dist/jquery.min.js"></script>
     <script src="{{ site.url }}/assets/js/jquery-ui.js"></script>
     <script src="{{ site.url }}/assets/js/main.js"></script>
-	<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async></script>
+
+	<script>
+	MathJax = {
+	  tex: {
+		inlineMath: [['$', '$']]
+	  },
+	};
+	</script>
+	<script type="text/javascript" id="MathJax-script" async
+	  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
+	</script>
+
+
 </head>
 <body class="{{ page.class }}" data-mz="{{ page.class }}">
     <header class="site-header">

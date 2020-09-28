@@ -71,7 +71,7 @@ lsi: false
 quiet: false
 excerpt_separator: "\n\n"
 permalink: /:year/:month/:day/:title/
-gems:
+plugins:
     - jekyll-github-metadata
     - rouge
 #     - jekyll-html-pipeline
@@ -133,5 +133,7 @@ simple_jekyll_search:
 # ---------------- #
 #    Analytics     #
 # ---------------- #
+#  analytics_id: UA-84936725-1 #
+
 google:
-    analytics_id: UA-84936725-1
+    analytics_id: 
