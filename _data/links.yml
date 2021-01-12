@@ -2,10 +2,14 @@
   url: https://msdn.itellyou.cn/
   src: www
 
+- name: Unofficial Windows Binaries for Python Extension Packages
+  url: https://www.lfd.uci.edu/~gohlke/pythonlibs/
+  src: www
+
 - name: 比较实惠的CSDN和PUDN的下载网站
   url: http://www.itziy.com/
   src: www
-
+  
 - name: 菜鸟教程-比较全的语言工具的语法手册
   url: https://www.runoob.com/sitemap
   src: www
