@@ -93,10 +93,6 @@
 - name: A JavaScript display engine for mathematics that works in all browsers
   url: https://www.mathjax.org/
   src: software
-
-- name: ch340 usb serial convert driver
-  url: https://liuweiqiang.win/tools/ch341ser.exe
-  src: software
   
 - name: mlcvt-MSB<->LSB转换的小工具
   url: https://liuweiqiang.win/tools/mlcvt.exe
