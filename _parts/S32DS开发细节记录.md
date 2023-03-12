@@ -25,9 +25,9 @@ typora-root-url: ..\
 # S32DS for arm老版本迁移到S32DS for S32记录
 老版本的必须先clean之后，确保能编译过，然后使用export到处成zip压缩包，如下图：
 
-![](/images/s32ds/export1.jpg)
+![](/images/s32ds/export3.jpg)
 
-![](/images/s32ds/export2.jpg)
+![](/images/s32ds/export4.jpg)
 
 然后打开新的S32DS for S32 IDE，使用import导入zip包就行，如下图：
 
